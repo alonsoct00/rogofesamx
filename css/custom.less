@@ -47,6 +47,7 @@
 
     .logo-img {
         width: 100px;
+
         span {
             color: #fff;
         }
@@ -179,6 +180,50 @@
         padding-top: 40px;
     }
 
+    #steps-ladder {
+        .step {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .step-number {
+            background-color: @green-olive;
+            color: white;
+            font-size: 2rem;
+            font-weight: bold;
+            width: 60px;
+            height: 60px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            margin-right: 20px;
+        }
+
+               .step-number-1 {
+            background-color: #679c41;
+        }
+        .step-number-2 {
+            background-color: #598836;
+        }
+        .step-number-3 {
+            background-color: #4a722c;
+        }
+        .step-number-4 {
+            background-color: #3c5c23;
+        }
+
+        .step-content h2 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .step-content p {
+            margin-bottom: 0;
+        }
+    }
+
     .practice_area {
         padding-bottom: 40px;
         padding-top: 40px;
@@ -299,15 +344,15 @@
 
 
 /* Smartphones (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 780px) {
-        .logo-img {
+@media only screen and (min-device-width : 320px) and (max-device-width : 780px) {
+    .logo-img {
         width: 80px !important;
+
         span {
             color: #fff;
             display: none;
         }
+
         img {
             width: 100%;
         }
