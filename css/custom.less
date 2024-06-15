@@ -20,6 +20,7 @@
 
     p {
         font-size: 16px;
+        line-height: normal;
 
         a:focus,
         a:hover {
@@ -143,7 +144,7 @@
         }
 
         .slider_bg_1 {
-            background-image: url(../img/rogofesa/bannher_hero_home2.jpg);
+            background-image: url(../img/rogofesa/bannherhomehero-hjuridco.jpg);
         }
 
         h1 {
@@ -178,6 +179,15 @@
     .about_area {
         padding-bottom: 40px;
         padding-top: 40px;
+
+        .single_about_info {
+            h5 {
+                flex: 0 0 auto;
+                margin-right: 30px;
+                display: inline-flex;
+                max-width: 80px;
+            }
+        }
     }
 
     #steps-ladder {
@@ -185,6 +195,21 @@
             display: flex;
             align-items: center;
             margin-bottom: 30px;
+        }
+
+        .step-content {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .step-content strong {
+            line-height: normal;
+            width: 100%;
+        }
+
+        #rogofesa-site #steps-ladder .step-content p {
+            margin-bottom: 0;
+            line-height: normal;
         }
 
         .step-number {
@@ -201,15 +226,18 @@
             margin-right: 20px;
         }
 
-               .step-number-1 {
+        .step-number-1 {
             background-color: #679c41;
         }
+
         .step-number-2 {
             background-color: #598836;
         }
+
         .step-number-3 {
             background-color: #4a722c;
         }
+
         .step-number-4 {
             background-color: #3c5c23;
         }
@@ -238,6 +266,7 @@
                 line-height: normal;
                 padding-bottom: 0;
                 padding-top: 0;
+                display: none;
             }
         }
     }
@@ -358,14 +387,15 @@
         }
     }
 
-    .steps-ladder {
-        .col-auto {
-            width: 100%;
-        margin: 10px auto;
-        text-align: center;
-        }
-        .col {
-            width: 100%;
+
+    .single_about_info {
+        flex-wrap: wrap;
+
+        h5 {
+            flex: 0 0 100%;
+            margin-right: 0px;
+            display: flex;
+            max-width: 100% !important;
         }
     }
 
