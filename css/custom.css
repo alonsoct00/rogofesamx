@@ -1,1 +1,289 @@
-#rogofesa-site{position:relative}#rogofesa-site b,#rogofesa-site del,#rogofesa-site sub,#rogofesa-site sup,#rogofesa-site u{color:#F47421}#rogofesa-site .header-area .main-header-area .logo-img img{width:100%;height:auto}#rogofesa-site p{font-size:16px;line-height:normal}#rogofesa-site p a:focus,#rogofesa-site p a:hover{text-decoration:underline;color:#679c41}#rogofesa-site details p{font-size:12px;line-height:normal}#rogofesa-site header .social_media_links{display:none}#rogofesa-site footer .socail_links{display:none}#rogofesa-site .logo-img{width:100px}#rogofesa-site .logo-img span{color:#fff}#rogofesa-site .contact-info .socail_links{display:none}#rogofesa-site .img-container{display:inline-block}#rogofesa-site .img-container img{width:100%;height:auto}#rogofesa-site ul{padding-left:16px}#rogofesa-site ul ::marker{color:#727272}#rogofesa-site ul li{list-style:square;margin-bottom:16px;color:#727272}#rogofesa-site ul li strong{color:#000}#rogofesa-site ul.list-check li{list-style:disc}#rogofesa-site ul.list-check li ul{margin-top:10px}#rogofesa-site ul.list-check li ul li{list-style:circle;line-height:normal}#rogofesa-site .slider_area{padding:0}#rogofesa-site .bradcam_inner{margin:0 auto}#rogofesa-site #our-clients .client-logo{margin:16px 0;filter:grayscale(1)}#rogofesa-site #our-clients .client-logo img{width:100%;height:auto;aspect-ratio:16/9;object-fit:contain}#rogofesa-site #our-clients .client-logo:focus,#rogofesa-site #our-clients .client-logo:hover{filter:none}#rogofesa-site #home_hero #top-header-logo{width:120px;margin-right:4px}#rogofesa-site #home_hero #top-header-logo img{filter:drop-shadow(1px 1px 3px #000)}#rogofesa-site #home_hero .slider_bg_1{background-image:url(../img/rogofesa/bannherhomehero-hjuridco.jpg)}#rogofesa-site #home_hero h1{color:#fff;font-size:50px;text-shadow:1px 1px 10px #000}#rogofesa-site #home_hero h3{text-shadow:1px 1px 10px #000}#rogofesa-site .video-container{margin:40px auto}#rogofesa-site .video-container video{display:block;margin:0 auto;position:relative;width:100%;height:auto;background:#000 no-repeat;background-size:cover;right:0;left:0;aspect-ratio:16/9}#rogofesa-site .about_area{padding-bottom:40px;padding-top:40px}#rogofesa-site .about_area .single_about_info h5{flex:0 0 auto;margin-right:30px;display:inline-flex;max-width:80px}#rogofesa-site #steps-ladder .step{display:flex;align-items:center;margin-bottom:30px}#rogofesa-site #steps-ladder .step-content{display:flex;flex-wrap:wrap}#rogofesa-site #steps-ladder .step-content strong{line-height:normal;width:100%}#rogofesa-site #steps-ladder #rogofesa-site #steps-ladder .step-content p{margin-bottom:0;line-height:normal}#rogofesa-site #steps-ladder .step-number{background-color:#679c41;color:#fff;font-size:2rem;font-weight:700;width:60px;height:60px;display:flex;justify-content:center;align-items:center;border-radius:50%;margin-right:20px}#rogofesa-site #steps-ladder .step-number-1{background-color:#679c41}#rogofesa-site #steps-ladder .step-number-2{background-color:#598836}#rogofesa-site #steps-ladder .step-number-3{background-color:#4a722c}#rogofesa-site #steps-ladder .step-number-4{background-color:#3c5c23}#rogofesa-site #steps-ladder .step-content h2{font-size:1.5rem;margin-bottom:10px}#rogofesa-site #steps-ladder .step-content p{margin-bottom:0}#rogofesa-site .practice_area{padding-bottom:40px;padding-top:40px}#rogofesa-site .practice_area .practice_hover p{font-size:12px;text-align:left;padding-left:20px;padding-right:20px;margin-bottom:8px;line-height:normal;padding-bottom:0;padding-top:0;display:none}#rogofesa-site .our_loyers{padding-bottom:40px;padding-top:40px}#rogofesa-site .our_loyers .single_loyers .thumb{width:280px;height:280px;overflow:hidden}#rogofesa-site .our_loyers .single_loyers .thumb img{width:100%;height:100%;object-fit:contain;background:#000}#rogofesa-site .appointment_area{margin-bottom:140px}#rogofesa-site .appointment_area img{width:100%;height:auto}#rogofesa-site .footer_logo{width:180px}#rogofesa-site .footer_logo img{width:100%;height:auto}#rogofesa-site.rogofesa_nosotros .slider_bg_2{background-image:url(../img/rogofesa/hero-plants-leaves.JPG)}#rogofesa-site.rogofesa_nosotros .about_area .row{margin:20px 0}#rogofesa-site.rogofesa_nosotros .about_area ul{padding-left:16px}#rogofesa-site.rogofesa_nosotros .about_area ul ::marker{color:#000}#rogofesa-site.rogofesa_nosotros .about_area ul li{list-style:square;margin-bottom:16px;color:#727272}#rogofesa-site.rogofesa_nosotros .about_area ul li strong{color:#000}#rogofesa-site.servicio_juridico .bradcam_bg{background-image:url(../img/rogofesa/banner_hero_juridico.jpg)}#rogofesa-site.servicio_compliance .bradcam_bg{background-image:url(../img/rogofesa/banner_hero_ad.jpg)}#rogofesa-site.servicio_medio_ambiente .bradcam_bg{background-image:url(../img/rogofesa/banner_hero_ac.jpg)}#rogofesa-site.servicio_seguridad_higiene .bradcam_bg{background-image:url(../img/rogofesa/bannher-hero_ab.jpg)}#rogofesa-site .bradcam_bg_2{background-image:url(../img/rogofesa/banner_homehero.jpg)}@media only screen and (min-device-width:320px) and (max-device-width:780px){.logo-img{width:80px!important}.logo-img span{color:#fff;display:none}.logo-img img{width:100%}.single_about_info{flex-wrap:wrap}.single_about_info h5{flex:0 0 100%;margin-right:0;display:flex;max-width:100%!important}}
+#rogofesa-site {
+  position: relative;
+}
+#rogofesa-site b,
+#rogofesa-site sup,
+#rogofesa-site sub,
+#rogofesa-site u,
+#rogofesa-site del {
+  color: #F47421;
+}
+#rogofesa-site .header-area .main-header-area .logo-img img {
+  width: 100%;
+  height: auto;
+}
+#rogofesa-site p {
+  font-size: 16px;
+  line-height: normal;
+}
+#rogofesa-site p a:focus,
+#rogofesa-site p a:hover {
+  text-decoration: underline;
+  color: #679c41;
+}
+#rogofesa-site details p {
+  font-size: 12px;
+  line-height: normal;
+}
+#rogofesa-site header .social_media_links {
+  display: none;
+}
+#rogofesa-site footer .socail_links {
+  display: none;
+}
+#rogofesa-site .logo-img {
+  width: 100px;
+}
+#rogofesa-site .logo-img span {
+  color: #fff;
+}
+#rogofesa-site .contact-info .socail_links {
+  display: none;
+}
+#rogofesa-site .img-container {
+  display: inline-block;
+}
+#rogofesa-site .img-container img {
+  width: 100%;
+  height: auto;
+}
+#rogofesa-site ul {
+  padding-left: 16px;
+}
+#rogofesa-site ul ::marker {
+  color: #727272;
+}
+#rogofesa-site ul li {
+  list-style: square;
+  margin-bottom: 16px;
+  color: #727272;
+}
+#rogofesa-site ul li strong {
+  color: #000;
+}
+#rogofesa-site ul.list-check li {
+  list-style: disc;
+}
+#rogofesa-site ul.list-check li ul {
+  margin-top: 10px;
+}
+#rogofesa-site ul.list-check li ul li {
+  list-style: circle;
+  line-height: normal;
+}
+#rogofesa-site .slider_area {
+  padding: 0;
+}
+#rogofesa-site .bradcam_inner {
+  margin: 0 auto;
+}
+#rogofesa-site #our-clients .client-logo {
+  margin: 16px 0px;
+  filter: grayscale(1);
+}
+#rogofesa-site #our-clients .client-logo img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+  object-fit: contain;
+}
+#rogofesa-site #our-clients .client-logo:hover,
+#rogofesa-site #our-clients .client-logo:focus {
+  filter: none;
+}
+#rogofesa-site #home_hero #top-header-logo {
+  width: 120px;
+  margin-right: 4px;
+}
+#rogofesa-site #home_hero #top-header-logo img {
+  filter: drop-shadow(1px 1px 3px #000000);
+}
+#rogofesa-site #home_hero .slider_bg_1 {
+  background-image: url(../img/rogofesa/bannherhomehero-hjuridco.jpg);
+}
+#rogofesa-site #home_hero h1 {
+  color: #fff;
+  font-size: 50px;
+  text-shadow: 1px 1px 10px #000000;
+}
+#rogofesa-site #home_hero h3 {
+  text-shadow: 1px 1px 10px #000000;
+}
+#rogofesa-site .video-container {
+  margin: 40px auto;
+}
+#rogofesa-site .video-container video {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background: #000 no-repeat;
+  background-size: cover;
+  right: 0;
+  left: 0;
+  aspect-ratio: 16/9;
+}
+#rogofesa-site .about_area {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+#rogofesa-site .about_area .single_about_info h5 {
+  flex: 0 0 auto;
+  margin-right: 30px;
+  display: inline-flex;
+  max-width: 80px;
+}
+#rogofesa-site #steps-ladder .step {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+#rogofesa-site #steps-ladder .step-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+#rogofesa-site #steps-ladder .step-content strong {
+  line-height: normal;
+  width: 100%;
+}
+#rogofesa-site #steps-ladder #rogofesa-site #steps-ladder .step-content p {
+  margin-bottom: 0;
+  line-height: normal;
+}
+#rogofesa-site #steps-ladder .step-number {
+  background-color: #679c41;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+#rogofesa-site #steps-ladder .step-number-1 {
+  background-color: #679c41;
+}
+#rogofesa-site #steps-ladder .step-number-2 {
+  background-color: #598836;
+}
+#rogofesa-site #steps-ladder .step-number-3 {
+  background-color: #4a722c;
+}
+#rogofesa-site #steps-ladder .step-number-4 {
+  background-color: #3c5c23;
+}
+#rogofesa-site #steps-ladder .step-content h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+#rogofesa-site #steps-ladder .step-content p {
+  margin-bottom: 0;
+}
+#rogofesa-site .practice_area {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+#rogofesa-site .practice_area .practice_hover p {
+  font-size: 12px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 8px;
+  line-height: normal;
+  padding-bottom: 0;
+  padding-top: 0;
+  display: none;
+}
+#rogofesa-site .our_loyers {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+#rogofesa-site .our_loyers .single_loyers .thumb {
+  width: 280px;
+  height: 280px;
+  overflow: hidden;
+}
+#rogofesa-site .our_loyers .single_loyers .thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #000;
+}
+#rogofesa-site .appointment_area {
+  margin-bottom: 140px;
+}
+#rogofesa-site .appointment_area img {
+  width: 100%;
+  height: auto;
+}
+#rogofesa-site .footer_logo {
+  width: 180px;
+}
+#rogofesa-site .footer_logo img {
+  width: 100%;
+  height: auto;
+}
+#rogofesa-site.rogofesa_nosotros .slider_bg_2 {
+  background-image: url(../img/rogofesa/hero-plants-leaves.JPG);
+}
+#rogofesa-site.rogofesa_nosotros .about_area .row {
+  margin: 20px 0;
+}
+#rogofesa-site.rogofesa_nosotros .about_area ul {
+  padding-left: 16px;
+}
+#rogofesa-site.rogofesa_nosotros .about_area ul ::marker {
+  color: black;
+}
+#rogofesa-site.rogofesa_nosotros .about_area ul li {
+  list-style: square;
+  margin-bottom: 16px;
+  color: #727272;
+}
+#rogofesa-site.rogofesa_nosotros .about_area ul li strong {
+  color: #000;
+}
+#rogofesa-site.servicio_juridico .bradcam_bg {
+  background-image: url(../img/rogofesa/banner_hero_juridico.jpg);
+}
+#rogofesa-site.servicio_compliance .bradcam_bg {
+  background-image: url(../img/rogofesa/banner_hero_ad.jpg);
+}
+#rogofesa-site.servicio_medio_ambiente .bradcam_bg {
+  background-image: url(../img/rogofesa/banner_hero_ac.jpg);
+}
+#rogofesa-site.servicio_seguridad_higiene .bradcam_bg {
+  background-image: url(../img/rogofesa/bannher-hero_ab.jpg);
+}
+#rogofesa-site.servicio_limites_territoriales .bradcam_bg {
+  background-image: url(../img/rogofesa/limites-territorio.jpeg);
+}
+#rogofesa-site .bradcam_bg_2 {
+  background-image: url(../img/rogofesa/banner_homehero.jpg);
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 780px) {
+  .logo-img {
+    width: 80px !important;
+  }
+  .logo-img span {
+    color: #fff;
+    display: none;
+  }
+  .logo-img img {
+    width: 100%;
+  }
+  .single_about_info {
+    flex-wrap: wrap;
+  }
+  .single_about_info h5 {
+    flex: 0 0 100%;
+    margin-right: 0px;
+    display: flex;
+    max-width: 100% !important;
+  }
+}
