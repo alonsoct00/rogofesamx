@@ -227,6 +227,9 @@
   width: 100%;
   height: auto;
 }
+#rogofesa-site .bradcam_bg_2 {
+  background-image: url(../img/rogofesa/banner_homehero.jpg);
+}
 #rogofesa-site.rogofesa_nosotros .slider_bg_2 {
   background-image: url(../img/rogofesa/hero-plants-leaves.JPG);
 }
@@ -260,10 +263,7 @@
   background-image: url(../img/rogofesa/bannher-hero_ab.jpg);
 }
 #rogofesa-site.servicio_limites_territoriales .bradcam_bg {
-  background-image: url(../img/rogofesa/limites-territorio.png);
-}
-#rogofesa-site .bradcam_bg_2 {
-  background-image: url(../img/rogofesa/banner_homehero.jpg);
+  background-image: url(../img/rogofesa/limites-territorio.png) !important;
 }
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-width: 780px) {
